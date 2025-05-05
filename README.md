@@ -11,11 +11,10 @@ Detenho expertise como instrutor de cursos voltados para Containers, Infraestrut
 
 Mais sobre mim: [https://linktr.ee/silvemerson](https://linktr.ee/silvemerson)
 
-## Criação do Laboratório
+## Roteiros
 
-https://github.com/4linux/524-gcp/tree/github-actions
+- [Criar conta gratuita na Google Cloud Platform](1-roteiro-conta-gcp.md)
+- [Criação do Laboratório](2-labs.md)
 
-```bash
-git clone -b github-actions https://github.com/4linux/524-gcp
-cd 524-gcp/
-```
+## Códigos 
+
